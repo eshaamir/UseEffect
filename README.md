@@ -1,1 +1,1 @@
-# UseEffect
+This is a simple React application that demonstrates how to use useState and useEffect hooks to create a real-time movie search feature using the OMDb API. Users can type the name of a movie into the search field, and the app will fetch and display a list of movies that match the search query.
